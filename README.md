@@ -1,0 +1,4 @@
+|Aula|Atividade|Auto-avaliação|Justificativa|Data/Hora completada|Link para o registro da atividade no Git|
+|-|-|-|-|-|-|
+|Aula 01 - Propósitos da modelagem|Conceito De Modelos|5|100% das atividades da aula realizadas|24/04/2026 22:40|https://github.com/UFU-Atividades/ModelagemDeDominio/blob/main/Aula%2001%20-%20Prop%C3%B3sitos%20da%20modelagem/Prop%C3%B3sitos%20da%20modelagem%20-%20Conceito%20De%20Modelos.docx|
+|Aula 01 - Propósitos da modelagem|Exemplos de modelos gerais|5|100% das atividades da aula realizadas|24/04/2026 22:40|https://github.com/UFU-Atividades/ModelagemDeDominio/blob/main/Aula%2001%20-%20Prop%C3%B3sitos%20da%20modelagem/Prop%C3%B3sitos%20da%20modelagem%20-%20Exemplos%20de%20modelos%20gerais.docx|
